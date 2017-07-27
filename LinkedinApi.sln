@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedinApi", "LinkedinApi\LinkedinApi.csproj", "{0884444D-2178-452E-94D8-0D52B3F6D23C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedinApi.Tests", "LinkedinApi.Tests\LinkedinApi.Tests.csproj", "{675A5404-59AB-413C-82C3-105B8B83324B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0884444D-2178-452E-94D8-0D52B3F6D23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0884444D-2178-452E-94D8-0D52B3F6D23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0884444D-2178-452E-94D8-0D52B3F6D23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0884444D-2178-452E-94D8-0D52B3F6D23C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675A5404-59AB-413C-82C3-105B8B83324B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675A5404-59AB-413C-82C3-105B8B83324B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675A5404-59AB-413C-82C3-105B8B83324B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675A5404-59AB-413C-82C3-105B8B83324B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
